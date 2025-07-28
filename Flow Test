@@ -1,0 +1,10 @@
+{
+  "niveau": "adaptatif",
+  "grille": [ ["", "E", "P", "I", ""], … ],
+  "definitions": [
+    {"no": "2 Horizontale", "def": "Procédure visant à supprimer ou maîtriser un danger", "reponse": "PREVENTION", "aide": "Ensemble d’actions avant l’accident"},
+    {"no": "5 Verticale", "def": "Règlement (UE) 2016/425 relatif aux …", "reponse": "EPI", "aide": "Casque, gants, lunettes…"}
+  ],
+  "chrono": 900,
+  "liens": ["https://eur-lex.europa.eu/...", "https://www.inrs.fr/..."]
+}
